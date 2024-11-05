@@ -12,8 +12,7 @@ https://github.com/user-attachments/assets/01d13cac-1708-470f-93b8-7bfca5f6bb03
 
 
 ### 🌐 Connect with Me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinandhmj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abinandh_mj) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kumar-sharma-87587b31b?)
 
 ## 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
