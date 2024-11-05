@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @A-KumarSharma
 
 - ༼ つ ◕_◕ ༽つ  Share this :)
+- ## stick coding gif:
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
+<br>
+<br>
 - 
-![dino](https://github.com/user-attachments/assets/c3ac5f93-e459-4fd1-ab9c-30ce3ddacaf1)
+
 
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
@@ -37,12 +41,15 @@
 
 ## 💰 You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreom A-Kumar-Sharma) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abinandhmu8)
+[![BuyMeACoffee]
+(https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abinandhmu8)
 
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
+
+![dino](https://github.com/user-attachments/assets/c3ac5f93-e459-4fd1-ab9c-30ce3ddacaf1)
 
 ###
 
