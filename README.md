@@ -9,8 +9,7 @@
 <br>
 <br>
 - 
-[![npm](https://img.shields.io/npm/v/github-spray.svg?style=flat-square)](https://www.npmjs.com/package/github-spray)
-[![license](https://img.shields.io/github/license/annihil/github-spray.svg?style=flat-square)]()
+####  SIMLE AND HEART CONNECTED
 
 <p align="center">
 	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
