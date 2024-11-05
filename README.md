@@ -16,7 +16,7 @@
 </p>
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
+
 
 ### 💫 About Me:
 
@@ -53,11 +53,19 @@
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]
 
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/A-KumarSharma/count.svg?"  />
+</div>
+
+###
+
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ![dino](https://github.com/user-attachments/assets/c3ac5f93-e459-4fd1-ab9c-30ce3ddacaf1)
 
-###
+
 
