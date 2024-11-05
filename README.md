@@ -59,12 +59,6 @@
 </div>
 
 ###
-
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 ![dino](https://github.com/user-attachments/assets/c3ac5f93-e459-4fd1-ab9c-30ce3ddacaf1)
 
 
