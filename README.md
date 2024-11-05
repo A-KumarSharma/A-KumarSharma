@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-KumarSharma
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/AbinandhMJ/AbinandhMJ/assets/99226172/f8cd1a50-1ed2-4767-95d6-b583b2fa9d3a)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/akshatkumarsharma/akshatkumarsharma/assets/99226172/f8cd1a50-1ed2-4767-95d6-b583b2fa9d3a)
 
 ### 💫 About Me:
 
