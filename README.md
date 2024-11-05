@@ -16,6 +16,12 @@
 
 ### 💫 About Me:
 
+
+![](https://i.imgur.com/QDxcot7.png)
+sh
+github-spray -f patterns/space-invaders.json ...
+```
+
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/) & [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - ⚡ Excited to learn more and code more!
