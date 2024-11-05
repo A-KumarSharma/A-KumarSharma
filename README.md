@@ -3,7 +3,7 @@
 ![dino](https://github.com/user-attachments/assets/c3ac5f93-e459-4fd1-ab9c-30ce3ddacaf1)
 
 
-
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
 
 ### 💫 About Me:
 
