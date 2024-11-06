@@ -1,4 +1,7 @@
 ![](https://i.imgur.com/rgSownU.png)
+<p align="right">
+	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
+</p>
 
 
 - 👋 Hi, I’m @A-KumarSharma
@@ -9,11 +12,9 @@
 <br>
 <br>
 - 
-####  SIMLE AND HEART CONNECTED
 
-<p align="center">
-	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
-</p>
+
+
 
 
 
