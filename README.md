@@ -7,12 +7,10 @@
 - 👋 Hi, I’m @A-KumarSharma
 
 - ༼ つ ◕_◕ ༽つ  Share this :)
-- ## stick coding gif:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
-<br>
-<br>
-- 
-
+## creator
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 
 
