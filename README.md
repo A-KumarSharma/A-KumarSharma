@@ -1,6 +1,6 @@
 # Hi, I'm Akshat Kumar Sharma 👋
 
-🚀 Aspiring Software Developer | AI & ML Enthusiast | Full-Stack Developer
+🚀 Robotics Software Developer (Future Goal) | AI & ML Enthusiast | Full-Stack Developer
 
 I'm a Computer Science student at Career Point University, Kota, with experience in software development, web development, machine learning, and AI-powered applications. I enjoy building scalable solutions, exploring emerging technologies, and solving real-world problems through code.
 
