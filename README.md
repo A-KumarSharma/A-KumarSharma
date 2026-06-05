@@ -5,6 +5,7 @@
 I'm a Computer Science student at Career Point University, Kota, with experience in software development, web development, machine learning, and AI-powered applications. I enjoy building scalable solutions, exploring emerging technologies, and solving real-world problems through code.
 
 ## 💻 Technical Skills
+- Robotics: python ,opencv ,ROS2, Gajebo
 - Languages: Python, Java, C, C++, JavaScript
 - Web Development: MERN Stack, Flask
 - AI/ML: TensorFlow, PyTorch, Scikit-learn, NumPy
